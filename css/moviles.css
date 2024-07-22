@@ -98,6 +98,19 @@ footer p{
     text-align: center;
     font-size: 25px;
 }
+footer a{
+    text-decoration: none;
+    margin-left: 5rem;
+}
+.face{
+    color: blue;
+}
+.wpp{
+    color: rgb(0, 255, 0);
+}
+.git{
+    color: white;
+}
 .sect1{
     display: grid;
     grid-template-columns:repeat(3,1fr);
